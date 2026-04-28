@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" role="img" aria-label="Hardik Saini — Engineering Monograph. Building AI, cloud, and product systems end to end.">
+  <title>Hardik Saini — Engineering Monograph</title>
+  <desc>Editorial masthead. Deep ink background, warm paper typography, ember accent.</desc>
+  <defs>
+    <pattern id="hs-grid-dark" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#e8dfd0" stroke-width="0.4" opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="340" fill="#14110f"/>
+  <rect width="1280" height="340" fill="url(#hs-grid-dark)"/>
+
+  <rect x="40" y="40" width="1200" height="260" fill="none" stroke="#e8dfd0" stroke-width="0.6" opacity="0.35"/>
+
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" fill="#9a9085">
+    <text x="64" y="68" font-size="11" letter-spacing="3.2">VOL. I  ·  MMXXVI  ·  ENGINEERING MONOGRAPH</text>
+    <text x="1216" y="68" font-size="11" letter-spacing="3.2" text-anchor="end">FOLIO 001 / HS</text>
+  </g>
+
+  <line x1="64" y1="84" x2="1216" y2="84" stroke="#e8dfd0" stroke-width="1.2"/>
+  <line x1="64" y1="90" x2="1216" y2="90" stroke="#e8dfd0" stroke-width="0.4"/>
+
+  <g font-family="Georgia, 'Times New Roman', 'Source Serif Pro', serif" fill="#e8dfd0">
+    <text x="64" y="190" font-size="84" font-weight="700" letter-spacing="-1.5">HARDIK SAINI</text>
+    <text x="64" y="240" font-size="20" font-style="italic" fill="#c8bfb1">Building AI, cloud, and product systems — end to end.</text>
+  </g>
+
+  <line x1="64" y1="206" x2="220" y2="206" stroke="#d4664f" stroke-width="3"/>
+
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" fill="#9a9085">
+    <text x="64" y="278" font-size="11" letter-spacing="3.2">BACKEND  ·  PLATFORM  ·  DATA  ·  AI  ·  PRODUCT</text>
+    <text x="1216" y="278" font-size="11" letter-spacing="3.2" text-anchor="end">@HARRY830</text>
+  </g>
+
+  <line x1="64" y1="290" x2="1216" y2="290" stroke="#e8dfd0" stroke-width="0.4"/>
+
+  <!-- HS seal -->
+  <g transform="translate(1110, 175)">
+    <circle r="58" fill="none" stroke="#e8dfd0" stroke-width="1.2"/>
+    <circle r="50" fill="none" stroke="#d4664f" stroke-width="0.6"/>
+    <circle r="44" fill="none" stroke="#e8dfd0" stroke-width="0.3" opacity="0.5"/>
+    <text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" fill="#e8dfd0" y="14">HS</text>
+    <g font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="7" letter-spacing="1.6" fill="#9a9085">
+      <text text-anchor="middle" y="-32">— SYSTEMS —</text>
+    </g>
+  </g>
+
+  <!-- subtle system-diagram glyph -->
+  <g transform="translate(880, 180)" stroke="#e8dfd0" fill="#14110f" opacity="0.9">
+    <line x1="0" y1="0" x2="60" y2="-30" stroke-width="0.8"/>
+    <line x1="0" y1="0" x2="60" y2="30" stroke-width="0.8"/>
+    <line x1="60" y1="-30" x2="60" y2="30" stroke-width="0.4" stroke-dasharray="2 3"/>
+    <circle cx="0" cy="0" r="4.5" stroke-width="1.2"/>
+    <circle cx="60" cy="-30" r="4.5" stroke-width="1.2"/>
+    <circle cx="60" cy="30" r="4.5" stroke-width="1.2" fill="#d4664f"/>
+  </g>
+</svg>
