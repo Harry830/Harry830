@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" role="img" aria-label="Hardik Saini — Engineering Monograph. Featured systems: TaskTrail, Stockd, RoomieManager, SpeechMate, Portfolio.">
-  <title>Hardik Saini — Engineering Monograph</title>
-  <desc>Editorial masthead. Warm paper background, deep ink typography, oxblood accent, system index of featured projects.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" role="img" aria-label="Hardik Saini — full-stack systems. Projects: TaskTrail, Stockd, RoomieManager, SpeechMate, Portfolio.">
+  <title>Hardik Saini — full-stack systems</title>
+  <desc>Editorial masthead. Warm paper background, deep ink typography, oxblood accent, project list.</desc>
   <defs>
     <pattern id="hs-grid-l" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1c1917" stroke-width="0.4" opacity="0.05"/>
@@ -17,8 +17,8 @@
 
   <!-- Top metadata -->
   <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" fill="#5a5249">
-    <text x="72" y="78" font-size="11" letter-spacing="3.4">VOL. I  ·  MMXXVI  ·  ENGINEERING MONOGRAPH</text>
-    <text x="1208" y="78" font-size="11" letter-spacing="3.4" text-anchor="end">FOLIO 001  —  HS</text>
+    <text x="72" y="78" font-size="11" letter-spacing="3.4">HARDIK SAINI  ·  CS @ GEORGIA STATE UNIVERSITY</text>
+    <text x="1208" y="78" font-size="11" letter-spacing="3.4" text-anchor="end">GITHUB  ·  @HARRY830</text>
   </g>
   <line x1="72" y1="92" x2="1208" y2="92" stroke="#1c1917" stroke-width="1.4"/>
   <line x1="72" y1="98" x2="1208" y2="98" stroke="#1c1917" stroke-width="0.4"/>
@@ -26,7 +26,7 @@
   <!-- Wordmark -->
   <g font-family="Georgia, 'Times New Roman', 'Source Serif Pro', serif">
     <text x="72" y="208" font-size="88" font-weight="700" letter-spacing="-2" fill="#1c1917">HARDIK SAINI</text>
-    <text x="72" y="258" font-size="20" font-style="italic" fill="#3d362f">Building AI, cloud, and product systems — end to end.</text>
+    <text x="72" y="258" font-size="20" font-style="italic" fill="#3d362f">Full-stack systems for messy real-world workflows.</text>
   </g>
 
   <!-- Layered oxblood accent -->
@@ -42,12 +42,12 @@
     <rect x="0" y="-14" width="22" height="22" fill="none" stroke="#1c1917" stroke-width="0.8" opacity="0.7"/>
     <text x="11" y="2.5" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#1c1917" text-anchor="middle">HS</text>
   </g>
-  <text x="104" y="334" font-family="ui-monospace, monospace" font-size="9.5" letter-spacing="2.6" fill="#7a6f63">HARRY830  ·  SYSTEMS</text>
+  <text x="104" y="334" font-family="ui-monospace, monospace" font-size="9.5" letter-spacing="2.6" fill="#7a6f63">BACKEND  ·  AI  ·  CLOUD</text>
 
   <!-- SYSTEM INDEX (right column) -->
   <g transform="translate(820, 0)">
-    <text x="0" y="146" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10.5" letter-spacing="3.6" fill="#5a5249">— FEATURED SYSTEMS —</text>
-    <text x="392" y="146" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10.5" letter-spacing="3.2" fill="#5a5249" text-anchor="end">001 → 005</text>
+    <text x="0" y="146" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10.5" letter-spacing="3.6" fill="#5a5249">— PROJECTS —</text>
+    <text x="392" y="146" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="10.5" letter-spacing="3.2" fill="#5a5249" text-anchor="end">FIVE OF THEM</text>
     <line x1="0" y1="156" x2="392" y2="156" stroke="#1c1917" stroke-width="0.7" opacity="0.55"/>
 
     <!-- 01 TaskTrail -->
